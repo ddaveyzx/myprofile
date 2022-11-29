@@ -6,6 +6,7 @@
     font-family: 'Montserrat', sans-serif;
 }
 .container{
+    width: 100%;
     background: -webkit-gradient(linear, left bottom, left top, from(#D4D4D4), to(#BE43CE)) fixed;
     display: flex;
     align-items: center;
