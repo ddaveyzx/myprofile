@@ -7,7 +7,7 @@
 }
 .container{
     width: 100%;
-    color: #2F3136;
+    background-color: #2F3136;
     display: flex;
     align-items: center;
     flex-direction: column;
