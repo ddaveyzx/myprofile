@@ -23,7 +23,7 @@ nav {
 .watermark{
     font-size: 20px;
     font-weight: bold;
-    color: #ffffff;
+    color: #000;
 }
 
 button {
@@ -51,12 +51,18 @@ button:hover {
 
 .profile-img{
     width: 200px;
-    height: 185px;
+    height: 200px;
     border-radius: 60px;
 }
 img{
     border-radius: 50%;
     background-color: #5E17EB;
+}
+.njing{
+  color: #000;
+}
+.ajg2{
+  color: #000;
 }
 section{
     width: 80%;
@@ -83,6 +89,9 @@ a{
     justify-content: space-between;
     flex-direction: column;
 }
+.social h1{
+  color: black;
+}
 .links{
     width: 350px;
     height: 40px;
@@ -95,7 +104,7 @@ a{
     justify-content: space-around;
 }
 .bi, span{
-    color: #000000;
+    color: #000;
     font-size: 1.2rem;
     
 }
